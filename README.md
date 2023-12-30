@@ -1,6 +1,6 @@
 # Machine-learning-and-AI
 ## iris
-A series of analyses were performed on the iris data set
+A series of analyses were performed on the iris data set.
 
 ## Convolutional neural network on the CIFAR 100
 You are going to train and experiment convolutional neural network on the CIFAR 100 dataset. 
@@ -11,4 +11,4 @@ Use the YOLOv8 library for object detection.
 
 ## VAE
 Your will implement and train a Gaussian VAE, and run experiments using the
-MNIST datasets (containing 28 ∗ 28 gray-scale hand written digit images)
+MNIST datasets (containing 28 ∗ 28 gray-scale hand written digit images).
