@@ -1,6 +1,10 @@
 # Machine-learning-and-AI
 ## iris
-针对鸢尾花数据集进行一系列分析。
+A series of analyses were performed on the iris data set
 
-## Machine Learning
-机器学习相关算法的实现
+## Convolutional neural network on the CIFAR 100
+you are going to train and experiment convolutional neural network on the CIFAR 100 dataset. 
+The network is a Simple convolutional neural network defined with the `nn.Module` by yourself.
+
+## YoloV8
+Use the YOLOv8 library for object detection.
