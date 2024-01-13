@@ -15,3 +15,6 @@ MNIST datasets (containing 28 ∗ 28 gray-scale hand written digit images).
 
 # Bank Churn Prediction Data Summary
 Walter Reade, Ashley Chow. (2024). Binary Classification with a Bank Churn Dataset . Kaggle. https://kaggle.com/competitions/playground-series-s4e1
+
+# Linking Writing Processes to Writing Quality
+Alex Franklin, Jules King, Maggie Demkin, Perpetual Baffour, Ryan Holbrook, Scott Crossley. (2023). Linking Writing Processes to Writing Quality. Kaggle. https://kaggle.com/competitions/linking-writing-processes-to-writing-quality
