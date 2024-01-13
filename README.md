@@ -12,3 +12,6 @@ Use the YOLOv8 library for object detection.
 ## VAE
 Your will implement and train a Gaussian VAE, and run experiments using the
 MNIST datasets (containing 28 ∗ 28 gray-scale hand written digit images).
+
+# Bank Churn Prediction Data Summary
+Walter Reade, Ashley Chow. (2024). Binary Classification with a Bank Churn Dataset . Kaggle. https://kaggle.com/competitions/playground-series-s4e1
