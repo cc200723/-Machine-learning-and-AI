@@ -18,3 +18,5 @@ Walter Reade, Ashley Chow. (2024). Binary Classification with a Bank Churn Datas
 
 # Linking Writing Processes to Writing Quality
 Alex Franklin, Jules King, Maggie Demkin, Perpetual Baffour, Ryan Holbrook, Scott Crossley. (2023). Linking Writing Processes to Writing Quality. Kaggle. https://kaggle.com/competitions/linking-writing-processes-to-writing-quality
+
+# Small project about Natural language processing
