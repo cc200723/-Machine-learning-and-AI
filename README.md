@@ -19,4 +19,5 @@ Walter Reade, Ashley Chow. (2024). Binary Classification with a Bank Churn Datas
 # Linking Writing Processes to Writing Quality
 Alex Franklin, Jules King, Maggie Demkin, Perpetual Baffour, Ryan Holbrook, Scott Crossley. (2023). Linking Writing Processes to Writing Quality. Kaggle. https://kaggle.com/competitions/linking-writing-processes-to-writing-quality
 
-# Small project about Natural language processing
+# DynamicNeuronController
+This code implements a deep Q network (DQN) to train agents to play CartPole-v1 and MountainCar-v0. Its core innovation is the dynamic neuron controller, which is used to dynamically adjust the characteristics of the state input to enhance the learning effect.
