@@ -21,3 +21,9 @@ Alex Franklin, Jules King, Maggie Demkin, Perpetual Baffour, Ryan Holbrook, Scot
 
 # DynamicNeuronController
 This code implements a deep Q network (DQN) to train agents to play CartPole-v1 and MountainCar-v0. Its core innovation is the dynamic neuron controller, which is used to dynamically adjust the characteristics of the state input to enhance the learning effect.
+
+# Mindquantum
+Some code sanples and Tutorials about Quantum Computing and Mindquantum.
+
+# NOAI Teaching
+Some Teaching Samples about National Olympiad in AI (NOAI).
